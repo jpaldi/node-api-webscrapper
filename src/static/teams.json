@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "sportid": 2,
+    "name": "Barreirense Basket"
+  },
+  {
+    "id": 2,
+    "sportid": 1,
+    "name": "Juventude Évora"
+  }
+]
